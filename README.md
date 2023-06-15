@@ -1,5 +1,5 @@
 # Neural Network Project
-This project is a neural network implementation for digit recognition using the MNIST dataset. It is inspired by Samson Zhang's tutorial on YouTube, titled "Building a Neural Network from Scratch" Link to YouTube tutorial.
+This project is a neural network implementation for digit recognition using the MNIST dataset. It is inspired by Samson Zhang's tutorial on YouTube, titled "Building a Neural Network from Scratch" [Link to YouTube tutorial](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1675s&pp=ygUObmV1cmFsIG5ldHdvcms%3D).
 
 ## Overview
 The goal of this project is to build a neural network model that can accurately recognize handwritten digits. The MNIST dataset, which consists of 60,000 training images and 10,000 test images, is used for training and evaluating the model. The project demonstrates the process of designing and training a neural network from scratch.
@@ -21,6 +21,6 @@ To run the project, follow these steps:
 * Run the ipynb script using Python: python main.py.
 * Acknowledgments
 
-This project is inspired by Samson Zhang's YouTube tutorial on building a neural network from scratch. His tutorial provided valuable insights and guidance in developing this project. You can find the tutorial here.
+This project is inspired by Samson Zhang's YouTube tutorial on building a neural network from scratch. His tutorial provided valuable insights and guidance in developing this project. You can find the tutorial [here](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=1675s&pp=ygUObmV1cmFsIG5ldHdvcms%3D).
 
 Special thanks to Samson Zhang for sharing his knowledge and expertise, which served as a foundation for this project.
