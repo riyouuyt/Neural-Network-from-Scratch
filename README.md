@@ -1,4 +1,4 @@
-# 🧠 **Neural Networks: An Overview**
+# 🧠 **Neural Networks from Scratch**
 
 Neural networks are computational models inspired by the human brain's neural architecture. They are capable of learning patterns and relationships within data to make predictions or classifications. At the core, they consist of interconnected nodes (neurons), organized into layers—input, hidden, and output layers—that process information through weighted connections.
 
